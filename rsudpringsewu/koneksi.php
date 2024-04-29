@@ -1,5 +1,5 @@
 <?php 
-$koneksi = mysqli_connect("103.151.140.164","backup","backup","sik");
+$koneksi = mysqli_connect("localhost","root","","sik");
 //"localhost","root","","sik"
 //"103.151.140.164","backup","backup","sik"
  
